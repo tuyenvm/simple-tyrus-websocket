@@ -1,1 +1,1 @@
-# simple-tyrus-websocket
+# Simple Tyrus Websocket
