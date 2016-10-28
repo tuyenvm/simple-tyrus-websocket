@@ -8,3 +8,7 @@ How to run
 
 The easiest way to run this code, that's download the Eclipse IDE:
 https://www.eclipse.org/downloads/eclipse-packages/ Eclipse for Java Developers is enough, no need Java EE. Download this source code and import into Eclipse, run MyApp project.
+
+Regarding Tyrus server
+---------------------
+You can read more information at https://tyrus.java.net/documentation/1.13/user-guide.html
